@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @sunbeststar
-- 👀 I’m interested in learning more about GitHub 
-- 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 👋 Hi, I’m Natallia Jenner
+This is my GitHub for personal and professional projects
 - 📫 
 
 <!---
